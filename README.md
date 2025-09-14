@@ -1,3 +1,8 @@
+# 
+# Advanced Business Development with .NET - 2º SEMESTRE FIAP 2025 CP-4
+
+**Este repositório contempla a disciplina **Advanced Business Development with .NET** do segundo semestre 2-TDSPZ - FIAP 2025.**
+
 # GeoMaster API • Cálculos Geométricos 2D/3D
 
 ![.NET](https://img.shields.io/badge/.NET-9.0-512BD4?logo=dotnet&logoColor=white)
@@ -311,7 +316,7 @@ Legenda: ✅ pronto | 🔶 recomendado/ajuste fino
 
 ## Autores
 
-
+- TURMA 2-TDSPZ
 - Amanda Mesquita — RM559177  
 - Journey Tiago — RM556071  
 - Paulo André Carminati — RM557881
